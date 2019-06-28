@@ -1,0 +1,46 @@
+@import '~./variables.scss';
+
+.button {
+  display: inline-block;
+  padding: 8px 25px 6px 25px;
+  line-height: 1;
+  font-size: 1rem;
+  color: #fff;
+  border: none;
+  cursor: pointer;
+  text-decoration: none;
+  font-weight: bold;
+
+  &.primary {
+    background-color: #47c9a5;
+  }
+
+  &.default {
+    background-color: #62c4f9;
+  }
+
+  &.danger {
+    background-color: #f96266;
+  }
+
+  &.transparent {
+    background-color: transparent;
+    color: #62c4f9;
+    border: 1px solid #62c4f9;
+    border-radius: 5px;
+  }
+
+  &.fitted {
+    padding: 4px 5px 3px 5px;
+  }
+
+  &.small {
+    font-size: 0.8rem;
+  }
+
+  &.round {
+    border-radius: 3px;
+  }
+
+}
+

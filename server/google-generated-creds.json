@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "canvas-diagram-139023",
+  "private_key_id": "ac57eee69a465c030fb2e77e606499bad463adc2",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDEtLT+NlotNDUi\ni+PUrZ911qN/YV7/V1gpMQdX/yoCc8RoEsG6JF/8zdrcPUtNNYRKiCXxEBojMmz2\nG17Uhra9QKxpXs3m+QwWIZ8daYAkJjMC6M4rAvGZ+EPROANGLnsVqcFJSwwQRTyK\nWjXw7VS9qBStOyJd3hitsAhL2eb3n7ufoOcnxAa7i22KlGsMDNBfZhfhiIxZMEgt\nQuBrw56BUzFpb2Igx6xFkdD5ISlld6ArUOLtft6ZjGVmlFo3qjRvkdYAFzaLVdgV\nJ+u/P097BPxcs/BqD87GvsLo+1GI2o4S2exhQZ3VXB69B/ZJ0mWY5tNIhLmxxLvI\nJIuqUa+/AgMBAAECggEAMz4CAlFFZ444o1G+3aoHJsrt16KVfT4TNNPVXmqV1oKy\n8Qul1Ohh6vjzYTlEcw4UctgJzkUMEgwyT2Bs8T9QvndpEqAEUn2hVOiYSzCvFXuw\nATuFbbX8G0iN3iRR0ggMv2Vz+TRoJZrrvPzoHWWuFCQDkucbOkm/swtu9deDcBEC\n4ChN6PdMImx8EloSz9M8If+gmPz0vjlKnWB6uGVWDw9w/ZhYNuMzEWQkJmPRPbmi\nJNGdyF3+Fn+JJQShKcPhCh9F5I/upH47b5QOZ4pWIOl0Do2gsYHAPwZMTgMB8ro8\nkE55EwkOzs9Df2P8T7bGpELU96iruE4MeksFPTeosQKBgQDrt5JyJ7rmnQAP6epi\nhvKxVU7Pt/nw79LBNbd2zJDVuKZesnx1ioZv4ByMRUaeyQP3JXP/HkyOw6Wjl0Zy\nWmZfbP5LmLq5/mpdwWgc3x2ioP9qvnhI5M+bjBs9Vzye+ROG7r09POyiSz58Vx72\n5NB86wk+wlBeslldF32PI/eL0QKBgQDVocmsrfcwqbADZfywqLL8tITPfUXLxlzv\n9WQzFHMwH2P0akKWWRHM4MmshOPlcw9xp7DuTldo7A/dBlD/25Hl+CCx1dLaXfUw\nJnzCP5XWhMg7lbxURkIV7rQ8cTGgVt5/fUGLGBgbEXdG0IgNgHJfZJ2w6supvmHy\n6MVIeGS2jwKBgQCwG+LqLwzQp5QYT6eyHSjNnPLY9pdij4tilwOPWp8LTn3eWnPq\nTajLhSFPG6L7lyvDRtQ3UyfXsgzbAHa9kRTTTtdfG6jGtXI6wflLONcnXin2UoAD\n1g/WIwNm/Pppu6X/Nfdk/VO+nYD93QlhZOrvqZqqrPrnBVEG4DoK69BTQQKBgG6l\n1Wby080IlnmsISz+s3XfqcouADCDFS/T0YoDVYXfPE4jm0lz6JxM8SfBzKfS6HTd\nfe5v9SYK3kyEMP/UIcUStxxku0kO0SeXR5b0iA8LxwnVjC26FhB2CjQkDKgXVjaC\nEaiRWirq6PRsnYsgtBxkaKhxc/r++Ixvs37NnJxRAoGAZwotFfOUUjGty/Q7SH0t\ndnhurME4ZYwgSfZiCUcEuNEaoF5VeZ/Edc4DqxsB2vqR9SDz3NnL1DfUqxfTJTEv\n2hEC3YxqnCVxcwNbrMPupvC8Vs58ZFjEZSGqFypCGz4GnhkyVRY4547Sk7TNl0qS\niGwTqp+/aKjQfCYO4+0iDHY=\n-----END PRIVATE KEY-----\n",
+  "client_email": "access-bot@canvas-diagram-139023.iam.gserviceaccount.com",
+  "client_id": "109293408065692172796",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/access-bot%40canvas-diagram-139023.iam.gserviceaccount.com"
+}
